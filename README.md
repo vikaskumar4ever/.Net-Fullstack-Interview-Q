@@ -1,10 +1,10 @@
     # .Net-Fullstack-Interview-Q-Ans 
     
- # ::>> Page life cycle in .Net Core
- # ::>> Describe about Startup Page in .NET Core
- ::>> What is the main reason of using .net core rather than mvc ?
- ::>> Can we pass null value in unique id ?
- ::>> Describe Get Put Post Delete method in .net core ?
+ # :: Page life cycle in .Net Core
+ # :: Describe about Startup Page in .NET Core
+ # :: What is the main reason of using .net core rather than mvc ?
+ # :: Can we pass null value in unique id ?
+ # ::>> Describe Get Put Post Delete method in .net core ?
  ::>> How To Use Sessions In ASP.NET Core ?
  ::>> How to handle session in .Net Core ?
  ::>> Middleware in .net core
