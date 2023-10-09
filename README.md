@@ -18,17 +18,17 @@
  
  # ::
  
-What Is OOPS concept and types of OOPS ?
-What Is Polymorphism and its type ?
-what Is Runtime Polymorphism and Compile Time Polymorphism ?
-What Is Inheritance and its types ?
-what Is the use of Delegates ?
-What Is Abstract Class And Interface ?
-Can we Inherite Abstract class Into Interface
-How can we Acchive Abstraction ?
-What Is Abstract class & Abstract method ?
-What Is Solid Principles in C# ?
-what Is Partial Classes?
+ - What Is OOPS concept and types of OOPS ?
+ - What Is Polymorphism and its type ?
+ - what Is Runtime Polymorphism and Compile Time Polymorphism ?
+ - What Is Inheritance and its types ?
+ - what Is the use of Delegates ?
+ - What Is Abstract Class And Interface ?
+ - Can we Inherite Abstract class Into Interface
+ - How can we Acchive Abstraction ?
+ - What Is Abstract class & Abstract method ?
+ - What Is Solid Principles in C# ?
+ - what Is Partial Classes?
  
  # ::
  
