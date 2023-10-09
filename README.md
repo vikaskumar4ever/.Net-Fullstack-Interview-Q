@@ -1,7 +1,7 @@
     # .Net-Fullstack-Interview-Q-Ans 
     
-:- Page life cycle in .Net Core <br/>
-Describe about Startup Page in .NET Core <br/>
+- Page life cycle in .Net Core
+- Describe about Startup Page in .NET Core
 What is the main reason of using .net core rather than mvc ?
 Can we pass null value in unique id ?
 Describe Get Put Post Delete method in .net core ?
@@ -19,7 +19,7 @@ Difference Between REST API SOAP API
  # ::
  
 What Is OOPS concept and types of OOPS ?
- What Is Polymorphism and its type ?
+What Is Polymorphism and its type ?
 what Is Runtime Polymorphism and Compile Time Polymorphism ?
 What Is Inheritance and its types ?
 what Is the use of Delegates ?
