@@ -1,7 +1,7 @@
     # .Net-Fullstack-Interview-Q-Ans 
     
-Page life cycle in .Net Core
-:- Describe about Startup Page in .NET Core
+:- Page life cycle in .Net Core <br/>
+Describe about Startup Page in .NET Core <br/>
 What is the main reason of using .net core rather than mvc ?
 Can we pass null value in unique id ?
 Describe Get Put Post Delete method in .net core ?
