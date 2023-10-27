@@ -1,5 +1,9 @@
     # .Net-Fullstack-Interview-Q
     
+ # ::
+ 
+---ASP .Net Core--
+
  - Page life cycle in .Net Core
  - Describe about Startup Page in .NET Core
  - What is the main reason of using .net core rather than mvc ?
@@ -16,7 +20,7 @@
  - What is API and why we use API() ?
  - Difference Between REST API SOAP API
  
- # ::
+---OOPs--
  
  - What Is OOPS concept and types of OOPS ?
  - What Is Polymorphism and its type ?
@@ -29,9 +33,8 @@
  - What Is Abstract class & Abstract method ?
  - What Is Solid Principles in C# ?
  - what Is Partial Classes?
- 
- # ::
- 
+ - What is sealed class?
+
 ---SQL--
 
  - 1. Diff primary key and Unique key
@@ -133,3 +136,6 @@
  - What is use of finally block
  - what is immutable string in c#
  - difference between == and equals in c#
+ - Difference between System.string and System.Text
+ - break & continue
+ - 
