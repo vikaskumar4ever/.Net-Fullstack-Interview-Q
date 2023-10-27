@@ -1,4 +1,4 @@
-    # .Net-Fullstack-Interview-Q-Ans 
+    # .Net-Fullstack-Interview-Q
     
  - Page life cycle in .Net Core
  - Describe about Startup Page in .NET Core
@@ -53,7 +53,7 @@
  - 17. Transaction and try catch block 
  - 18. Concurrency Control
  - 19. Lock query, block query and deadlock
-
+ - 20. How to performe SQL Queries performance
 
 ---Angular---
 
@@ -93,10 +93,12 @@
  - 34. Router state and Router event
  - 35. Use of track by
  - 36. How to improve Angular application performance
-
+ - 37 Two way binding
+ - 38 what is Interpolation
+ - 39 types of forms in angular
+ - 40 how to add scss in angular
 
 ---C#---
-
 
  - Value type and ref type
  - Diff b/w  stack and Heap
@@ -123,4 +125,11 @@
  - static class and use of it and what are the order of execution
  - Diff b/w Array clone and copy
  - what is shadow copy and deep copy
-
+ - what is difference between list and ienumerable in c#
+ - what is use of using keyword in c#
+ - what is block in c#
+ - what is dependency inversion principle c#
+ - what is postback in asp.net
+ - What is use of finally block
+ - what is immutable string in c#
+ - difference between == and equals in c#
