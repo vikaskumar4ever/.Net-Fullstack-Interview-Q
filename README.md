@@ -1,5 +1,8 @@
     # .Net-Fullstack-Interview-Q
-    
+    - Write a program to reverse string 
+    - write a program to count duplicate value in array
+    - write a program to calculate Date Of Birth without using DateTime.Now()
+
  # ::
  
  -----> OOPs
@@ -155,4 +158,14 @@
  - what is Interpolation
  - Types of forms in angular
  - How to add scss in angular
+   
+-----> Entity FrameWork
 
+ - Write EF code first approch and DB first command
+ - Join two table without using LINQ
+ - What is use of Single Or SingleDefault
+ - What is use of First or FirstDefault
+ - What is use of Pop
+ - How to manage relation between two table in c# using EF
+ - Write the steps to retrieve data from database using Entity Framework
+ - What is the difference between Dapper and Entity Framework?
