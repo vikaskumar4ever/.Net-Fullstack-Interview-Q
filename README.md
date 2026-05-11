@@ -1,7 +1,20 @@
     # .Net-Fullstack-Interview-Q
-    - Write a program to reverse string 
+    - Write a program to reverse string (with and without Built-in finction)
     - write a program to count duplicate value in array
     - write a program to calculate Date Of Birth without using DateTime.Now()
+    - Print this no 122333444455555
+    - Print this no 1361015
+    - Swap number without third variable (int a=5; int b=10;)
+    - Highest salary (Using LINQ)
+    - 2nd highest salary (Using LINQ)
+    - Join two table (Using LINQ)
+    - Return one selected columns/record (Using LINQ)
+    - Return list of selected columns/records (Using LINQ)
+    - 2nd highest salary (SQL)
+    - 3rd highest salary (SQL)
+    - How to delete duplicate value in SQL
+    - Wtrite Azure TimmerFunction (Azure)
+    - Write a code to get Key and Value from Azure Key Valut 
 
  # ::
  
@@ -18,8 +31,8 @@
  - What Is Abstract class & Abstract method ?
  - What Is Solid Principles in C# ?
  - what Is Partial Classes?
- - What is sealed class?
- - 
+ - What is Sealed class?
+ - Difference between Dispose vs Finalize
  
 -----> C#
 
@@ -55,9 +68,10 @@
  - what is postback in asp.net
  - What is use of finally block
  - what is immutable string in c#
- - difference between == and equals in c#
+ - Difference between == and equals in c#
  - Difference between System.string and System.Text
  - break & continue
+ - How to create Singleton Class in C#
 
 -----> .Net Core
 
@@ -77,7 +91,7 @@
  - What is API and why we use API() ?
  - Difference Between REST API SOAP API
  - How to define routing in .Net Core
- - 
+ - Which Framework you used for unit testing (NUnit or xUnit)
 
 -----> Design Pattern
 
