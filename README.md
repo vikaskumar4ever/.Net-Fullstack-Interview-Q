@@ -1,7 +1,8 @@
     # .Net-Fullstack-Interview-Q
-    - Write a program to reverse string (with and without Built-in finction)
-    - write a program to count duplicate value in array
-    - write a program to calculate Date Of Birth without using DateTime.Now()
+    - Create Singleton Class in C#
+    - Reverse string (with and without Built-in finction)
+    - Count duplicate value in array
+    - Calculate Date Of Birth without using DateTime.Now()
     - Print this no 122333444455555
     - Print this no 1361015
     - Swap number without third variable (int a=5; int b=10;)
@@ -71,7 +72,6 @@
  - Difference between == and equals in c#
  - Difference between System.string and System.Text
  - break & continue
- - How to create Singleton Class in C#
 
 -----> .Net Core
 
@@ -183,3 +183,22 @@
  - How to manage relation between two table in c# using EF
  - Write the steps to retrieve data from database using Entity Framework
  - What is the difference between Dapper and Entity Framework?
+
+ -----> Azure
+ 
+ - Types of Azure function
+ - Explain CRON Expression in Azure Timmer Function
+ - What is Service Bus
+ - What is Azure Artifacts
+ - Types of Storage Account and explanation
+ - Explain KeyVault
+ - How to monitor application logs in azure
+ - What Is App Service
+ - Explain Deployment cycle (slot swaping)
+
+ -----> Test Case
+ 
+  - Types of unit test frameworks in .net Core
+  - Explain xUnit and NUnit
+
+
