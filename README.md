@@ -1,4 +1,5 @@
-    # .Net-Fullstack-Interview-Q
+   ** # .Net-Fullstack-Interview-Q**
+   
     - Create Singleton Class in C#
     - Reverse string (with and without Built-in finction)
     - Count duplicate value in array
@@ -19,7 +20,7 @@
 
  # ::
  
- -----> OOPs
+  **OOPs**
  
  - What Is OOPS concept and types of OOPS ?
  - What Is Polymorphism and its type ?
@@ -35,7 +36,7 @@
  - What is Sealed class?
  - Difference between Dispose vs Finalize
  
------> C#
+ **C#**
 
  - Value type and ref type
  - Diff b/w  stack and Heap
@@ -46,10 +47,7 @@
  - Tuple
  - Automapper
  - ExtensionMethod
- - == and Equal
  - Delegate and Event
- - Thread and TPL and howto handle exception
- - what is async and await
  - Coalescing operator
  - Diff b/w throw and throw ex
  - partial class
@@ -62,18 +60,20 @@
  - static class and use of it and what are the order of execution
  - Diff b/w Array clone and copy
  - what is shadow copy and deep copy
- - what is difference between list and ienumerable in c#
- - what is use of using keyword in c#
- - what is block in c#
- - what is dependency inversion principle c#
- - what is postback in asp.net
+ - what is difference between list and ienumerable
+ - what is use of using keyword
+ - what is block in
  - What is use of finally block
  - what is immutable string in c#
- - Difference between == and equals in c#
+ - Difference between =, == and equals
  - Difference between System.string and System.Text
  - break & continue
+ - Can we use this keyword in static method
+ - What is data abstraction
+ - what is Constructor Chaining
+ - What is yield keyword
 
------> .Net Core
+ **.Net Core**
 
  - Page life cycle in .Net Core
  - Describe about Startup Page in .NET Core
@@ -87,16 +87,23 @@
  - Difference between a GET and POST
  - Difference between a Post and Put method
  - Can we create multiple Get method with same name ?
+ - What is async and await
+ - Thread and TPL and how to handle exception
+ - What is Multithreading 
  - What are authentication used in .Net Core ?
  - What is API and why we use API() ?
  - Difference Between REST API SOAP API
- - How to define routing in .Net Core
+ - Types of routing in .Net Core
+ - What is Custom Middleware how to create 
  - Which Framework you used for unit testing (NUnit or xUnit)
+ - How to secure an API and How JWT Token works
+ - How to handle Refresh token with JWT
+ - what is Rate Limiting / Throttling, HTTPS only, CORS Rules, Input Validation and Logging + Monitoring
 
 -----> Design Pattern
 
  - What is Dependency Injection
- - what is dependency inversion principle c#
+ - what is dependency inversion principle
  - What is Design Pattern
  - Diff b/w Singleton Transient and Scoped
  - Diff b/w Singleton and Static
@@ -107,7 +114,7 @@
  - DI and IoC
  - Diff b/w Anti Pattern and Singleton
 
------> SQL
+ **SQL Server**
 
  - Diff primary key and Unique key
  - Diff Union and Union all
@@ -129,8 +136,40 @@
  - Concurrency Control
  - Lock query, block query and deadlock
  - How to performe SQL Queries performance
+   
+ **Entity FrameWork**
 
------> Angular
+ - Write EF code first approch and DB first command
+ - Join two table without using LINQ
+ - What is use of Single Or SingleDefault
+ - What is use of First or FirstDefault
+ - What is use of Pop
+ - How to manage relation between two table in c# using EF
+ - Write the steps to retrieve data from database using Entity Framework
+ - What is the difference between Dapper and Entity Framework?
+
+  **Azure**
+ 
+ - Types of Azure function
+ - Explain CRON Expression in Azure Timmer Function
+ - What is Service Bus
+ - What is Azure Artifacts
+ - Types of Storage Account and explanation
+ - Explain KeyVault
+ - How to monitor application logs in azure
+ - What Is App Service
+ - Explain Deployment cycle (slot swaping)
+ - What is Event Grid
+ - What is availability set and availability zone in azure
+ - How to Scale and Autoscaling your app services in azure
+ - What is drawbacks using azure function give one example when you don't want to use azure function
+
+  **Test Case**
+ 
+  - Types of unit test frameworks in .net Core
+  - Explain xUnit and NUnit
+
+ **Angular**
 
  - Diff b/w AOT and JIT
  - Bundling, minfication and tree shaking
@@ -172,33 +211,5 @@
  - what is Interpolation
  - Types of forms in angular
  - How to add scss in angular
-   
------> Entity FrameWork
 
- - Write EF code first approch and DB first command
- - Join two table without using LINQ
- - What is use of Single Or SingleDefault
- - What is use of First or FirstDefault
- - What is use of Pop
- - How to manage relation between two table in c# using EF
- - Write the steps to retrieve data from database using Entity Framework
- - What is the difference between Dapper and Entity Framework?
-
- -----> Azure
- 
- - Types of Azure function
- - Explain CRON Expression in Azure Timmer Function
- - What is Service Bus
- - What is Azure Artifacts
- - Types of Storage Account and explanation
- - Explain KeyVault
- - How to monitor application logs in azure
- - What Is App Service
- - Explain Deployment cycle (slot swaping)
-
- -----> Test Case
- 
-  - Types of unit test frameworks in .net Core
-  - Explain xUnit and NUnit
-
-
+-----------------------------------------------------**End**----------------------------------------------------------------------
