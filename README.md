@@ -18,8 +18,7 @@
     - Wtrite Azure TimmerFunction (Azure)
     - Write a code to get Key and Value from Azure Key Valut 
 
- # ::
- 
+ # 
   **OOPs**
  
  - What Is OOPS concept and types of OOPS ?
