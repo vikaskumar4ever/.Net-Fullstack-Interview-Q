@@ -1,4 +1,4 @@
-   ** # .Net-Fullstack-Interview-Q**
+   **.Net-Fullstack-Interview-Q**
    
     - Create Singleton Class in C#
     - Reverse string (with and without Built-in finction)
@@ -19,9 +19,9 @@
     - Write a code to get Key and Value from Azure Key Valut 
 
  # 
-  ** # OOPs**
+  **OOPs**
  
- - What Is OOPS concept and types of OOPS ?
+ - What Is OOPs concept and types ?
  - What Is Polymorphism and its type ?
  - what Is Runtime Polymorphism and Compile Time Polymorphism ?
  - What Is Inheritance and its types ?
@@ -30,7 +30,6 @@
  - Can we Inherite Abstract class Into Interface
  - How can we Acchive Abstraction ?
  - What Is Abstract class & Abstract method ?
- - What Is Solid Principles in C# ?
  - what Is Partial Classes?
  - What is Sealed class?
  - Difference between Dispose vs Finalize
