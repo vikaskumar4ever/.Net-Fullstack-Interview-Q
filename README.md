@@ -35,7 +35,8 @@
  - what Is Partial Classes?
  - What is Sealed class?
  - Difference between Dispose vs Finalize
- 
+   
+  # ::
  **C#**
 
  - Value type and ref type
@@ -73,6 +74,7 @@
  - what is Constructor Chaining
  - What is yield keyword
 
+ # ::
  **.Net Core**
 
  - Page life cycle in .Net Core
@@ -100,7 +102,8 @@
  - How to handle Refresh token with JWT
  - what is Rate Limiting / Throttling, HTTPS only, CORS Rules, Input Validation and Logging + Monitoring
 
------> Design Pattern
+ # ::
+ **Design Pattern**
 
  - What is Dependency Injection
  - what is dependency inversion principle
@@ -114,6 +117,7 @@
  - DI and IoC
  - Diff b/w Anti Pattern and Singleton
 
+ # ::
  **SQL Server**
 
  - Diff primary key and Unique key
@@ -136,7 +140,8 @@
  - Concurrency Control
  - Lock query, block query and deadlock
  - How to performe SQL Queries performance
-   
+
+ # ::   
  **Entity FrameWork**
 
  - Write EF code first approch and DB first command
@@ -148,6 +153,7 @@
  - Write the steps to retrieve data from database using Entity Framework
  - What is the difference between Dapper and Entity Framework?
 
+  # ::
   **Azure**
  
  - Types of Azure function
@@ -164,11 +170,13 @@
  - How to Scale and Autoscaling your app services in azure
  - What is drawbacks using azure function give one example when you don't want to use azure function
 
+ # ::
   **Test Case**
  
   - Types of unit test frameworks in .net Core
   - Explain xUnit and NUnit
 
+ # ::
  **Angular**
 
  - Diff b/w AOT and JIT
