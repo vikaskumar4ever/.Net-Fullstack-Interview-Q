@@ -16,7 +16,9 @@
     - 3rd highest salary (SQL)
     - How to delete duplicate value in SQL
     - Wtrite Azure TimmerFunction (Azure)
-    - Write a code to get Key and Value from Azure Key Valut 
+    - Write a code to get Key and Value from Azure Key Valut
+    - find duplicates in c# array 
+          int[] numbers = { 4,7, 2, 3, 4, 5, 3, 6, 7, 8,1, 8 };
 
  # 
   **OOPs**
